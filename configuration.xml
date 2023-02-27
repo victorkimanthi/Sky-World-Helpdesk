@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><config>
+    <undertow>
+        <port>8080</port>
+        <host>0.0.0.0</host>
+    </undertow>
+    <database>
+        <url>jdbc:mysql://localhost:3306/SkyHelpdesk</url>
+        <username>victor</username>
+        <password password_format="encrypted">cZ0EuahVCWAZ3TBGr/lthw==</password>
+    </database>
+    <uploadfolderpath>/home/victorkimanthi556/kyc/kycapi/kyc_uploaded_files/</uploadfolderpath>
+    <classForName>com.mysql.cj.jdbc.Driver</classForName>
+</config>
